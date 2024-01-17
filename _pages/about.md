@@ -1,6 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-layout: default
+layout: home
 author_profile: true
 ---
