@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Kate Rosenthal"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/photo-placeholder-woman.jpg"
   bio              : "Bio goes here"
   location         : "Boise, ID"
   email            :
