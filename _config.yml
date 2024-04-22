@@ -257,10 +257,10 @@ compress_html:
     envs: development
 
 # Collections
-collections:
-  portfolio:
-    output: true
-    permalink: /:categories/:title/
+#collections:
+#  portfolio:
+#    output: true
+#    permalink: /:categories/:title/
 
 # Defaults
 defaults:
@@ -276,16 +276,16 @@ defaults:
       share: true
       related: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: false
-      share: false
-      related: false
+  #- scope:
+  #    path: ""
+  #    type: portfolio
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    read_time: false
+  #    comments: false
+  #    share: false
+  #    related: false
 
 
 
