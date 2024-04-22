@@ -13,6 +13,9 @@ title: "Portfolio"
 # author_profile: true
 ---
 
-## [Project 1](/portfolio/entry1/)
+* ## [Project 1](/portfolio/entry1/)
+* ## [Project 2](/portfolio/entry1/)
+* ## [Project 3](/portfolio/entry1/)
+* ## [Project 4](/portfolio/entry1/)
 
 
