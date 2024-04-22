@@ -1,5 +1,5 @@
 ---
-title: "Newsletter"
+title: "User Guide"
 permalink: /portfolio/user-guide/
 layout: archive
 
