@@ -257,10 +257,10 @@ compress_html:
     envs: development
 
 # Collections
-#collections:
-#  portfolio:
-#    output: true
-#    permalink: /:categories/:title/
+collections:
+  portfolio:
+    output: true
+    permalink: /:categories/:title/
 
 # Defaults
 defaults:
