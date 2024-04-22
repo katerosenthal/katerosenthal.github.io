@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Portfolio"
-    url: /about/
+    url: /portfolio/
   - title: "Resume"
-    url: /about/
+    url: /resume/
   - title: "Certifications"
-    url: /about/
+    url: /certifications/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
