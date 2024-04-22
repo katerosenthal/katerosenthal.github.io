@@ -13,11 +13,11 @@ title: "Technical Writing Portfolio"
 # author_profile: true
 ---
 
-## [Project 1](/portfolio/entry1/)
-Project 1 description.
-## [Project 2](/portfolio/entry1/)
-Project 2 description.
-## [Project 3](/portfolio/entry1/)
-Project 3 description.
-## [Project 4](/portfolio/entry1/)
-Project 4 description.
+## [Proposal](/portfolio/entry1/)
+Upcoming! - A proposal to create a comprehensive training program for a restaurant.
+## [Newsletter](/portfolio/entry1/)
+A newsletter-style case for support written for the nonprofit organization The Intermountain Fair Housing Council (IFHC).
+## [Tech Note](/portfolio/entry1/)
+A short guide to adding a title to a Word document for better accessibility.
+## [User Guide](/portfolio/entry1/)
+A user guide for a student-made web application.
