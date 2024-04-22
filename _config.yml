@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Kate Rosenthal"
   avatar           : "/assets/images/photo-placeholder-woman.jpg"
-  bio              : "Bio goes here"
+  bio              : # "Bio goes here"
   location         : "Boise, ID"
   email            :
   links:
