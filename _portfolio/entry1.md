@@ -13,4 +13,4 @@ Hello.
 Why is this not working??
 
 ## Document
-[Download Folder Icon](/docs/folder_icon.png)
+[Download Folder Icon](docs/folder_icon.png)
