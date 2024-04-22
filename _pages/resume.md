@@ -28,9 +28,9 @@ Recent graduate with a BS in Computer Science, English minor, and Technical Comm
 
 —	Contributed to 10.5% increase in overall accessibility compliance, achieving over 95% accessibility (6% above industry average)
 
-04/2014 - Present
+### 04/2014 - Present
 
-### Server & Shift Supervisor, The RAM Restaurant and Brewery, Boise, ID
+#### Server & Shift Supervisor, The RAM Restaurant and Brewery, Boise, ID
 
 —	Apply highly developed interpersonal skills to provide exceptional service for a diverse customer base
 
@@ -82,7 +82,7 @@ Recent graduate with a BS in Computer Science, English minor, and Technical Comm
 
 ## EDUCATION
 
-December 2022
+### December 2022
 
 Bachelor of Science, Computer Science; Boise State University, Boise, ID
 
