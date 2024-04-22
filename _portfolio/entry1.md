@@ -13,4 +13,4 @@ Hello.
 Why is this not working??
 
 ## Document
-[Download Folder Icon](/assets/images/folder_icon.png)
+[Download Document](/assets/documents/L3_krosenthal.docx)
