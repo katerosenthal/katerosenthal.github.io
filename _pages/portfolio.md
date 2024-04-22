@@ -13,9 +13,14 @@ title: "Portfolio"
 # author_profile: true
 ---
 
-* ## [Project 1](/portfolio/entry1/)
-* ## [Project 2](/portfolio/entry1/)
-* ## [Project 3](/portfolio/entry1/)
-* ## [Project 4](/portfolio/entry1/)
+## [Project 1](/portfolio/entry1/)
+:   Project 1 description.
+## [Project 2](/portfolio/entry1/)
+:   Project 2 description.
+## [Project 3](/portfolio/entry1/)
+:   Project 3 description.
+## [Project 4](/portfolio/entry1/)
+:   Project 4 description.
 
-
+Definition List Title
+:   Definition list division.
