@@ -95,6 +95,9 @@
   overflow: hidden;
 
   img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 100%;
   }
 }
@@ -113,6 +116,7 @@
   z-index: 5;
   opacity: 0.5;
   border-radius: $border-radius 0 0 0;
+  text-align: center;
 
   @include breakpoint($large) {
     padding: 5px 10px;
