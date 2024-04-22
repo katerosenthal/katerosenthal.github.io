@@ -8,6 +8,13 @@
     .page__hero--overlay .btn {
       color: {{page.header.text_color}} !important;
     }
+{% if page.header.background_color %}
+    .page__hero--overlay .page__title,
+    .page__hero--overlay .page__meta,
+    .page__hero--overlay .page__lead,
+    .page__hero--overlay .btn {
+      color: {{page.header.background_color}} !important;
+    }
   {% endif %}
 </style>
 
