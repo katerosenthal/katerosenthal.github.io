@@ -70,7 +70,7 @@ Recent graduate with a BS in Computer Science, English minor, and Technical Comm
 
 ### December 2022
 
-Bachelor of Science, Computer Science; Boise State University, Boise, ID
+#### Bachelor of Science, Computer Science; Boise State University, Boise, ID
 
 English Minor
 
