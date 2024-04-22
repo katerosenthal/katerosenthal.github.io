@@ -1,5 +1,5 @@
 ---
-title: "Newsletter"
+title: "Tech Note"
 permalink: /portfolio/tech-note/
 layout: archive
 
