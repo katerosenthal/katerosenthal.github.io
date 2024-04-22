@@ -4,17 +4,17 @@ permalink: /resume/
 author_profile: true
 title: "Resume"
 ---
-SUMMARY
+## SUMMARY
 
 Recent graduate with a BS in Computer Science, English minor, and Technical Communication Certificate. 1 year experience in technical writing and remote work as a Web Accessibility Analyst and 2+ years’ relative experience in agile software development settings. Seeking an opportunity to continue learning and to apply a combined passion for both Computer Science and English as a Technical Writer.
 
 
 
-EMPLOYMENT
+## EMPLOYMENT
 
-01/2022 - 12/2022
+### 01/2022 - 12/2022
 
-Web Accessibility Analyst, Boise State University, Boise, ID
+#### Web Accessibility Analyst, Boise State University, Boise, ID
 
 (Student intern position ending upon graduation)
 
@@ -30,7 +30,7 @@ Web Accessibility Analyst, Boise State University, Boise, ID
 
 04/2014 - Present
 
-Server & Shift Supervisor, The RAM Restaurant and Brewery, Boise, ID
+### Server & Shift Supervisor, The RAM Restaurant and Brewery, Boise, ID
 
 —	Apply highly developed interpersonal skills to provide exceptional service for a diverse customer base
 
@@ -42,21 +42,21 @@ Server & Shift Supervisor, The RAM Restaurant and Brewery, Boise, ID
 
 
 
-RELEVANT COURSEWORK & ACADEMIC EXPERIENCE
+## RELEVANT COURSEWORK & ACADEMIC EXPERIENCE
 
-Technical Rhetoric & Genres
+### Technical Rhetoric & Genres
 
 —	Produced and edited technical documents including memos, white papers, reports, user guides, and instruction sets
 
 —	Researched and translated complex technical concepts into plain language to reach non-specialist target audiences
 
-Editing for Clear Communication
+### Editing for Clear Communication
 
 —	Created, proofread, and edited documents using a style guide, editing plans, and collaborative authoring tools
 
 —	Reviewed graduate-level documents for accuracy in content, spelling, and grammar
 
-Proposal Development
+### Proposal Development
 
 —	Worked directly for nonprofit organization Intermountain Fair Housing Council, gaining experience in professional writing and document review processes
 
@@ -64,7 +64,7 @@ Proposal Development
 
 —	Created 5 public-facing documents that were officially distributed by the organization including a renter’s guide and fundraising campaign newsletter
 
-Software Development
+### Software Development
 
 —	Collaborated with 5 team members to design and implement a web application using agile software development processes
 
@@ -74,13 +74,13 @@ Software Development
 
 —	Applied critical analysis and problem-solving skills to develop a software solution for converting complex medical data into user-friendly images
 
-User-Centered Design Principles 
+### User-Centered Design Principles 
 
 —	Identified pain points and reported suggested product improvements by incorporating user personas and conducting usability tests
 
 
 
-EDUCATION
+## EDUCATION
 
 December 2022
 
