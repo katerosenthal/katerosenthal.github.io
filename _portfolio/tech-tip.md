@@ -5,13 +5,15 @@ layout: archive
 
 ---
 
-## Tech Tip – How to Add a Title to a Microsoft Word Document 
+## Project Title
 
-### Context
+**Tech Tip – How to Add a Title to a Microsoft Word Document**
+
+## Context
 Words.
 
-### Target Audience
+## Target Audience
 Anyone
 
-### Document
+## Document
 [Download Document](/assets/documents/L3_krosenthal.docx)
