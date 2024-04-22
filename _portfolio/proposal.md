@@ -1,6 +1,6 @@
 ---
 title: "Newsletter"
-permalink: /portfolio/newsletter/
+permalink: /portfolio/proposal/
 layout: archive
 
 ---
