@@ -28,7 +28,7 @@ Web Accessibility Analyst, Boise State University, Boise, ID
 
 —	Contributed to 10.5% increase in overall accessibility compliance, achieving over 95% accessibility (6% above industry average)
 
-04/2014 - PRESENT
+04/2014 - Present
 
 Server & Shift Supervisor, The RAM Restaurant and Brewery, Boise, ID
 
@@ -82,11 +82,9 @@ User-Centered Design Principles
 
 EDUCATION
 
-DECEMBER 2022
+December 2022
 
 Bachelor of Science, Computer Science; Boise State University, Boise, ID
-
-3.1 GPA
 
 English Minor
 
