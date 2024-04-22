@@ -2,7 +2,7 @@
 layout: archive
 permalink: /certifications/
 author_profile: true
-title: "Certifications"
+title: "Certificates & Certifications"
 ---
 Technical Communication Certificate - Boise State University, December 2022
 
