@@ -271,4 +271,10 @@ defaults:
       share: true
       related: true
 
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:categories/:title/
+
 
