@@ -6,7 +6,7 @@ title: "Resume"
 ---
 SUMMARY
 
-Recent graduate with BS in Computer Science, English minor, and Technical Communication Certificate. 1 year experience in technical writing and remote work as a Web Accessibility Analyst. 2+ years’ relative experience working collaboratively in agile software development settings. Seeking an opportunity to continue learning and to apply a combined passion for both Computer Science and English as a Technical Writer for Oracle NetSuite.
+Recent graduate with BS in Computer Science, English minor, and Technical Communication Certificate. 1 year experience in technical writing and remote work as a Web Accessibility Analyst. 2+ years’ relative experience working collaboratively in agile software development settings. Seeking an opportunity to continue learning and to apply a combined passion for both Computer Science and English as a Technical Writer.
 
 
 
