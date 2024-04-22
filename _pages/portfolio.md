@@ -2,7 +2,7 @@
 layout: archive
 permalink: /portfolio/
 author_profile: true
-title: "Portfolio"
+title: "Technical Writing Portfolio"
 
 # title: Portfolio
 # layout: collection
