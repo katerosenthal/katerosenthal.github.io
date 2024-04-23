@@ -18,6 +18,6 @@ Upcoming! - A proposal to create a comprehensive training program for a restaura
 ## [Newsletter](/portfolio/newsletter/)
 A newsletter-style case for support written for the nonprofit organization The Intermountain Fair Housing Council (IFHC).
 ## [Tech Tip](/portfolio/tech-tip/)
-A short guide to adding a title to a Word document for better accessibility.
+A short guide to adding a title to a Word document for improved accessibility.
 ## [User Guide](/portfolio/user-guide/)
 A user guide for a student-made web application.
