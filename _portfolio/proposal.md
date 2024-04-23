@@ -4,18 +4,19 @@ permalink: /portfolio/proposal/
 layout: archive
 
 ---
+This project is still a work in progress!
 
 ## Project Title
 
-**Tech Tip – How to Add a Title to a Microsoft Word Document**
+**Proposal to Create a Comprehensive Training Program for Onboarding Front of House Staff at Store #6**
 
 ## Context
-This tech tip was created for a university course. It was meant to be written using steps, no more than two pages long, include helpful images, and help a user complete a simple process. The images used were created by me using screen captures and Shapes in Microsoft Word. 
+This is a nonsolicited proposal I am writing to address the lack of a standardized training program at a restaurant. Research shows that stronger training programs can contribute to improved employee performance, satisfaction, and retention. The goal of this document is to persuade an audience that a better training program is needed and will be beneficial, as well as provide a solution to create one. 
+
+The actual name of the restaurant is left out intentionally.
 
 ## Target Audience
-The target audience of this guide was all users of Microsoft Word in Office 365 for Windows in 2022.
+The target audience of this proposal is the store's management staff and corporate office.
 
 ## Document
-![document preview](/assets/images/folder_icon.png)
-
-[Download Document](/assets/documents/L3_krosenthal.docx)
+Coming Soon!
