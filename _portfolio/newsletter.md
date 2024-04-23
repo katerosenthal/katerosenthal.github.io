@@ -15,7 +15,7 @@ This newsletter was written for the nonprofit organization The Intermountain Fai
 ## Target Audience
 The target audience of this newsletter is existing IFHC newsletter recipients as well as their friends and family.
 
-## Document
+## Document Preview
 ![document preview](/assets/images/newsletter-1.jpg)
 
 [Download Document](/assets/documents/FinalLongForm-Newsletter.pdf)
