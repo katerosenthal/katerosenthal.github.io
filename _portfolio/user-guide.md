@@ -17,5 +17,7 @@ The target audience of this guide was all users of Microsoft Word in Office 365 
 
 ## Document Preview
 ![document preview](/assets/images/user-guide-1.jpg)
+![document preview](/assets/images/user-guide-2.jpg)
+![document preview](/assets/images/user-guide-3.jpg)
 
-[Download Document](/assets/documents/UserGuide.pdf)
+**[Download Document](/assets/documents/UserGuide.pdf)**
