@@ -7,7 +7,7 @@ layout: archive
 
 ## Project Title
 
-**Tech Tip – How to Add a Title to a Microsoft Word Document**
+Tech Tip – How to Add a Title to a Microsoft Word Document
 
 ## Context
 This tech tip was created for a university course. It was meant to be written using steps, no more than two pages long, include helpful images, and help a user complete a simple process. The images used were created by me using screen captures and Shapes in Microsoft Word. 
