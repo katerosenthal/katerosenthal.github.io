@@ -17,5 +17,6 @@ The target audience of this guide was all users of Microsoft Word in Office 365 
 
 ## Document Preview
 ![document preview](/assets/images/tech-tip-1.jpg)
+![document preview](/assets/images/tech-tip-2.jpg)
 
-[Download Document](/assets/documents/TechTep.pdf)
+**[Download Document](/assets/documents/TechTep.pdf)**
