@@ -18,5 +18,5 @@ The actual name of the restaurant is left out intentionally.
 ## Target Audience
 The target audience of this proposal is the store's management staff and corporate office.
 
-## Document
+## Document Preview
 Coming Soon!
