@@ -7,13 +7,13 @@ layout: archive
 
 ## Project Title
 
-**Tech Tip – How to Add a Title to a Microsoft Word Document**
+**December Newsletter**
 
 ## Context
-This tech tip was created for a university course. It was meant to be written using steps, no more than two pages long, include helpful images, and help a user complete a simple process. The images used were created by me using screen captures and Shapes in Microsoft Word. 
+This newsletter was written for the nonprofit organization The Intermountain Fair Housing Council (IFHC) and was intended to act as a short case for support for a fundraiser. As a case for support, it includes recent work by the IFHC, explains the event’s importance and impact, says where the money raised goes, asks for donations, and tracks its goals. It was designed to be modular so that each section could be included or removed and easily editable for reusability. It was also written using similar styling and formatting to past newsletters and with a voice consistent with the IFHC's social media presence. The entire document was created using Canva.
 
 ## Target Audience
-The target audience of this guide was all users of Microsoft Word in Office 365 for Windows in 2022.
+The target audience of this newsletter is existing IFHC newsletter recipients as well as their friends and family.
 
 ## Document
 ![document preview](/assets/images/folder_icon.png)
