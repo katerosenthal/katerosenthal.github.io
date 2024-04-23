@@ -16,6 +16,6 @@ This tech tip was created for a university course. It was meant to be written us
 The target audience of this guide was all users of Microsoft Word in Office 365 for Windows in 2022.
 
 ## Document
-![document preview](/assets/images/folder_icon.png)
+![document preview](/assets/images/tech-tip-1)
 
-[Download Document](/assets/documents/L3_krosenthal.docx)
+[Download Document](/assets/documents/TechTep.pdf)
