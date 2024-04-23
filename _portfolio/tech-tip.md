@@ -17,4 +17,5 @@ The target audience of this guide was all users of Microsoft Word in Office 365 
 
 ## Document
 ![document preview]({{ "/assets/images/folder_icon.png" | relative_url }}){: .align-center}
+
 [Download Document](/assets/documents/L3_krosenthal.docx)
