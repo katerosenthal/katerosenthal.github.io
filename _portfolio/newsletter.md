@@ -17,5 +17,7 @@ The target audience of this newsletter is existing IFHC newsletter recipients as
 
 ## Document Preview
 ![document preview](/assets/images/newsletter-1.jpg)
+![document preview](/assets/images/newsletter-2.jpg)
+![document preview](/assets/images/newsletter-3.jpg)
 
 [Download Document](/assets/documents/FinalLongForm-Newsletter.pdf)
