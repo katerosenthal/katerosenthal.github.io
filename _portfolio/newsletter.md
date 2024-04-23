@@ -18,4 +18,4 @@ The target audience of this newsletter is existing IFHC newsletter recipients as
 ## Document
 ![document preview](/assets/images/folder_icon.png)
 
-[Download Document](/assets/documents/L3_krosenthal.docx)
+[Download Document](/assets/documents/FinalLongForm-Newsletter.pdf)
